@@ -19,7 +19,7 @@ https://github.com/kevinw/raylib-odin
 See how easy it is to build the same games in different languages
 
 + C# https://github.com/hopeforsenegal/SimpleGames-CSharp
-+ Go https://github.com/hopeforsenegal/SimpleGames-G
++ Go https://github.com/hopeforsenegal/SimpleGames-Go
 + Jai https://github.com/hopeforsenegal/SimpleGames-Jai
 + Odin https://github.com/hopeforsenegal/SimpleGames-Odin
 + Zig https://github.com/hopeforsenegal/SimpleGames-Zig
