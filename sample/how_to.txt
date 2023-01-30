@@ -1,0 +1,5 @@
+build:
+odin build . -out:bin\sample.exe
+
+run:
+bin\sample

@@ -1,0 +1,5 @@
+build:
+odin build . -out:bin\pong.exe
+
+run:
+bin\pong
