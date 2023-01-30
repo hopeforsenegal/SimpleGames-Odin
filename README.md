@@ -18,8 +18,8 @@ https://github.com/kevinw/raylib-odin
 # Other Simple Game Langs
 See how easy it is to build the same games in different languages
 
-+ C# 
-+ Go 
-+ Jai 
-+ Odin 
-+ Zig
++ C# https://github.com/hopeforsenegal/SimpleGames-CSharp
++ Go https://github.com/hopeforsenegal/SimpleGames-G
++ Jai https://github.com/hopeforsenegal/SimpleGames-Jai
++ Odin https://github.com/hopeforsenegal/SimpleGames-Odin
++ Zig https://github.com/hopeforsenegal/SimpleGames-Zig
